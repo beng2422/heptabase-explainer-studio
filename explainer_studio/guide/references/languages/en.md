@@ -17,11 +17,16 @@ Load this when the narration is English. Length is counted in **words**.
 ## 2. Sentences
 
 - Write speech, not prose: contractions are fine (it's, doesn't, we'll), and one sentence carries one new idea.
-- Mix long and short: a long sentence of up to 25 words, followed by a short one such as "That's odd." or "And it
-  works."
+- Vary sentence length within 25 words. Use complete sentences for the reasoning and pause between steps. Avoid a
+  run of fragments for emphasis.
 - Put the subject first; do not make the viewer wait until the end of the sentence to know what it is about.
 - Avoid stock phrases such as "In this video, we will…", "Let's dive in", "delve" and "it's important to note"; start
   straight from something concrete.
+- State the claim directly. Avoid opening with a denial to set up a reveal. Use a contrast when the learner raised
+  the misconception or the example gives them a reason to expect a different result. Show what happens in that case.
+- Name the thing before describing what it does. Say which action, measurement or result supports a claim. For
+  example, "Both groups have the same median, but only group B has values above 100." Use a concrete example before
+  introducing a new term. Give headings the actual question or task. End on the result or a specific application.
 - Mostly "you", with "we" for company (we'll see, let's try); never "the viewer" or "one".
 
 ## 3. Writing narration for the picture

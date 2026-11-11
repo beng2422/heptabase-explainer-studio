@@ -6,6 +6,10 @@ in [UPGRADING.md](UPGRADING.md).
 
 ## [Unreleased]
 
+### Changed
+
+- English narration states claims directly, and the audience review flags wording that obscures the reasoning.
+
 ## [1.3.0] - 2026-10-22
 
 ### Added

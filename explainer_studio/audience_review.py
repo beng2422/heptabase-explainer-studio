@@ -113,10 +113,13 @@ it is about.
 2. Skipped causal steps: places where you would ask "wait, why?" or "how did we get here?"; or a new example or piece \
 of evidence that starts without saying what it is there to answer.
 3. A belief this viewer may hold (listed above) that is only asserted to be wrong, not broken on a concrete case; or \
-broken, but the new picture is not clear.
+broken, but the new picture is not clear. Also flag a rebuttal that has no basis in the viewer's starting point or \
+in what the episode has shown.
 4. Sentences hard to follow when heard once at speaking speed: too long, two new ideas at once, an unclear "it" or \
 "this"; or an abstract sentence that only restates what an example just showed, or a promise of what comes later \
-("we will see...") where an example could go.
+("we will see...") where an example could go. Flag a denial used to delay the claim, fragments used for emphasis, \
+or a claim of significance that leaves out the actual comparison. Flag wording that makes the viewer wait to find \
+out which thing is acting or what it does, including a metaphor that stands in for the actual mechanism.
 5. Narration and picture pointing at different things at the same moment, or a label on screen that now means \
 something other than before.
 6. Anything inaccurate, or claimed more strongly than a careful expert in the subject would.
